@@ -1,6 +1,6 @@
 {
-  "name": "i-love-you",
-  "version": "1.2.0",
+  "name": "@aidoskz/i-love-you",
+  "version": "1.0.0",
   "description": "This is fun package",
   "main": "index.js",
   "bin": {
@@ -10,12 +10,13 @@
     "type": "git",
     "url": "git://github.com/aidoskz/i-love-you.git"
   },
-  "keywords": ["fun", "processes"],
+  "keywords": ["fun"],
   "author": "Aidos Kakimzhanov",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aidoskz/i-love-you/issues"
   },
+  "contributors": ["Aidos Kakimzhanov <aidos.kakimzhan@gmail.com> (https://github.com/aidoskz)"],
   "homepage": "https://github.com/aidoskz/i-love-you",
   "dependencies": {}
 }
