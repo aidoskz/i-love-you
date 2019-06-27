@@ -8,7 +8,7 @@ This is fun meme.
 
 ## Installation
 
-    npm install -g aidoskz@i-love-you
+    npm i -g @aidoskz/i-love-you
 
 > Requires `node` to be available in your PATH. If you're using a system where
 > the node binary is named `nodejs` instead, you'll need to symlink it or something.
