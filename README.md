@@ -1,6 +1,8 @@
 I Love You
 ========
 
+[![npm version](https://badge.fury.io/js/%40aidoskz%2Fi-love-you.svg)](https://badge.fury.io/js/%40aidoskz%2Fi-love-you)
+
 This is fun meme.
 
 ![](https://raw.github.com/aidoskz/i-love-you/master/example.gif)
